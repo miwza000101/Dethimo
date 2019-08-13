@@ -1,0 +1,2 @@
+# Dethimo
+Newbie inDataSci
