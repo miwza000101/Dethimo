@@ -43,6 +43,34 @@ Experience	Windows Feature Experience Pack 1000.22644.1000.0
 
 ![image](https://cdn.discordapp.com/attachments/938092515884662805/1136910634525667338/image.png)
 # การจัดวางโครงสร้างโฟลเดอร์ย่อย
+โครงสร้างไดเรกทอรีของโปรเจกต์
+'code/'
+├── backend/
+│   └── clinic_site/
+│      ├── clinic_app/
+│      ├── clinic_site/
+│      ├── media/
+│      ├── db.sqlite3
+│      ├── manage.py
+│      ├── Procfile
+│      ├── requirements
+│      └── .env
+└── frontend/
+   └── Clinic_front/
+      ├── node_modules/
+      ├── public/
+      ├── src/
+      ├── .gitignore
+      ├── index.html
+      ├── package.json
+      ├── package-lock.json
+      ├── postcss.config.js
+      ├── tailwind.config.js
+      ├── vite.config.js
+      └── yarn.lock
+
+
+
 
 # แหล่งอ้างอิง
 * [1] Siritongtaworn, S., & Siengthai, S. (2019). The importance of healthcare service quality in Thailand: A literature review. In Proceedings of the 14th International Conference on Knowledge, Information and Creativity Support Systems (KICSS).
